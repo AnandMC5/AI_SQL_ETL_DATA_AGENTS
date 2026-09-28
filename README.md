@@ -10,7 +10,7 @@ This project was recreated for learning and extended with a two-subagent
 architecture: **SQL Analyst** and **ETL Analyst**, including SQL safety
 validation, PostgreSQL read-only querying, and file-based ETL processing.
 
-##################  AI SQL & ETL DATA AGENT ###########################
+## AI SQL & ETL DATA AGENT
 1. Project Structure:
 This project is organized into separate modules for the SQL Analyst and ETL Analyst subagents, with dedicated folders for agents, database utilities, extraction, transformation, and output data. The structure keeps the code modular, clean, and easy to extend.
 <img width="1774" height="887" alt="AI_Dat_Agent_Project_Structure" src="https://github.com/user-attachments/assets/77dcd22b-94bb-4253-9a03-101c5f20e52b" />
