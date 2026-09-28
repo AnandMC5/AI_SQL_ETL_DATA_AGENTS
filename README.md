@@ -9,7 +9,6 @@ Project Implementation:
 The project is implemented in Python with separate components for the AI subagents, SQL safety validation, PostgreSQL interaction, and ETL operations. The modular design makes it easier to maintain and add new capabilities.
 
 <img width="959" height="538" alt="Screenshot 2026-09-27 212001" src="https://github.com/user-attachments/assets/5ea0a2e5-c1a2-4e38-a82f-c43378531999" />
-<img width="499" height="298" alt="Screenshot 2026-09-27 232816" src="https://github.com/user-attachments/assets/cd1f8088-a6ef-4fdd-839e-85bf93c50ed2" />
 <img width="959" height="539" alt="Screenshot 2026-09-29 012139" src="https://github.com/user-attachments/assets/1993b731-3e83-4843-a5ab-320abd2dc25a" />
 
 3. Claude Console – API Cost:
