@@ -1,3 +1,15 @@
+## 🙏 Learning Reference
+
+Inspired by and built while learning from **Ansh Lamba's** tutorial:
+
+**Build Ola AI Data Agent | End-To-End Agentic AI Project For Beginners**
+
+🔗 [YouTube – Ansh Lamba](https://www.youtube.com/@AnshLambaJSR)
+
+This project was recreated for learning and extended with a two-subagent
+architecture: **SQL Analyst** and **ETL Analyst**, including SQL safety
+validation, PostgreSQL read-only querying, and file-based ETL processing.
+
 ##################  AI SQL & ETL DATA AGENT ###########################
 1. Project Structure:
 This project is organized into separate modules for the SQL Analyst and ETL Analyst subagents, with dedicated folders for agents, database utilities, extraction, transformation, and output data. The structure keeps the code modular, clean, and easy to extend.
