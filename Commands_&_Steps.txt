@@ -1,0 +1,18 @@
+1)Buy some credits using OpenAI or Claude Console and create one API key and put it in .env file.
+
+2)Install below libraries
+uv add langchain
+uv add langgraph
+uv add langchain-anthropic
+uv add pydantic
+uv add dotenv
+uv add langchain_anthropic
+uv add psycopg2-binary
+uv add IPython
+uv add pandas
+
+3)create one database as agentdb in postgres.provide the connection in .env file ,
+add the source files under data folder and load the file using load_into_postgres.py file
+
+4)Types of messages : HumanMessages,SystemMessages,AIMessages
+
